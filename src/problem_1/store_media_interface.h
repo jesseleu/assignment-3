@@ -21,13 +21,23 @@ public:
         /*
          * TODO: homework
          */
+    if ( get_inventory_id() % 13 == 0){
+        return true;
+    }
+        return false;
     }
 
     bool operator==(const StoreMediaInterface &other_media) const {
         /*
-         * TODO: homework
+         * TODO: homework == Complete
          */
-        return false;
+        /**if (get_inventory_id() == other_media.get_inventory_id()) {
+            return true;
+        } else {
+            return false;
+        }**/
+
+        return get_inventory_id() == other_media.get_inventory_id();
     };
 
     bool operator!=(const StoreMediaInterface &other_media) const {

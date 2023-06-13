@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-build",
+		"source" : "lib/ext_dependencies/googletest/googletest-src"
+	}
+}

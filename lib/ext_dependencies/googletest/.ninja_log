@@ -1,0 +1,21 @@
+# ninja log v5
+0	47	1686676319596036419	googletest-prefix/src/googletest-stamp/googletest-mkdir	76483ae2dfa2f7c3
+0	47	1686676319596036419	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-mkdir	76483ae2dfa2f7c3
+47	8190	1686676327739258510	googletest-prefix/src/googletest-stamp/googletest-download	12dac4e7393545dc
+47	8190	1686676327739258510	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-download	12dac4e7393545dc
+8190	8340	0	googletest-prefix/src/googletest-stamp/googletest-update	13deec5543ae6eb2
+8190	8340	0	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-update	13deec5543ae6eb2
+8340	8394	1686676327942699678	googletest-prefix/src/googletest-stamp/googletest-patch	6c5fd305409a8f53
+8340	8394	1686676327942699678	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-patch	6c5fd305409a8f53
+8394	8472	1686676328021211331	googletest-prefix/src/googletest-stamp/googletest-configure	ee17016bad33a569
+8394	8472	1686676328021211331	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-configure	ee17016bad33a569
+8472	8527	1686676328076112155	googletest-prefix/src/googletest-stamp/googletest-build	b6fdabcf9ec2ccaf
+8472	8527	1686676328076112155	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-build	b6fdabcf9ec2ccaf
+8527	8591	1686676328139326532	googletest-prefix/src/googletest-stamp/googletest-install	a8feb733da10a66e
+8527	8591	1686676328139326532	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-install	a8feb733da10a66e
+8591	8668	1686676328216471237	googletest-prefix/src/googletest-stamp/googletest-test	2b16cb0d726add9b
+8591	8668	1686676328216471237	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-test	2b16cb0d726add9b
+8668	8764	1686676328312672268	CMakeFiles/googletest-complete	d5469108908baff8
+8668	8764	1686676328312672268	googletest-prefix/src/googletest-stamp/googletest-done	d5469108908baff8
+8668	8764	1686676328312672268	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/CMakeFiles/googletest-complete	d5469108908baff8
+8668	8764	1686676328312672268	/Users/jl/Desktop/assignment-3/lib/ext_dependencies/googletest/googletest-prefix/src/googletest-stamp/googletest-done	d5469108908baff8
