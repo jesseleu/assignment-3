@@ -118,4 +118,20 @@ void ArrayList<T>::reverse_iterative() {
     /*
      * TODO: homework
      */
+    if (num_of_element <= 1) {
+        return;
+    }
+
+    size_t left = 0;
+    size_t right = num_of_element - 1;
+
+    while (left < right) {
+        std::swap(data[left], data[right]);
+        left++;
+        right--;
+    }
+
+
+
+
 }
